@@ -40,13 +40,13 @@ Here are some ideas to get you started:
 | :---:| :---: | :---: |
 | HTML | Java | CSS |
 | Arduino | Android | ESP32 |
-| Nao Robots | Android | Linux |
-| Apache | Android | PHP |
+| Nao Robots | R | Linux |
+| Apache | Vue | PHP |
 | Data Science | Machine Learning | Cisco |
 | JavaScript | Postgresql | Mysql |
-| Oracle Cloud | Android | Raspberry Pi |
+| Oracle Cloud | Node | Raspberry Pi |
 | Github | RStudio | Express|
-| Vue | Node | R |
+
 
 ---
 
