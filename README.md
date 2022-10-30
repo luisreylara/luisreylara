@@ -35,28 +35,18 @@ Here are some ideas to get you started:
 ---
 ## I have experieve working and Teaching diferent Programming Languages and Tools, like a:
 
-- HTML
-- CSS
-- Java
-- JavaScript
-- Apache
-- Github
-- Android
-- ESP32
-- Arduino
-- Experiments with Nao Robots
-- R, RStudio
-- Data Science, Machine Learning en RStudio
-- Node
-- Express
-- Vue
-- Raspberry Pi
-- Oracle Cloud, Create Instance on Ubuntu 18,20
-- PHP
-- Mysql Database
-- Postgresql Database
-- Linux
-- Cisco certified
+
+| Lenguajes | Lenguajes | Lenguajes |
+| :---:| :---: | :---: |
+| HTML | Java | CSS |
+| Arduino | Android | ESP32 |
+| Nao Robots | Android | Linux |
+| Apache | Android | PHP |
+| Data Science | Machine Learning | Cisco |
+| JavaScript | Postgresql | Mysql |
+| Oracle Cloud | Android | Raspberry Pi |
+| Github | RStudio | Express|
+| Vue | Node | R |
 
 ---
 
@@ -67,5 +57,4 @@ Here are some ideas to get you started:
 
 ---
 
-### :fire: My Stats :
  
