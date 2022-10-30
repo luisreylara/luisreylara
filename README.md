@@ -14,3 +14,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Connect with me:
+codeSTACKr | TwittercodeSTACKr | LinkedIncodeSTACKr | Instagram
+
+
+---
+## I'm a Full Stack Developer.
+---
+## I have experieve working and Teaching diferent Programming Languages and Tools, like a:
+
+- HTML
+- CSS
+* Java
+- JavaScript
+- Apache
+- Github
+- Android
+- ESP32
+- R Rstudio
+- Node
+- Express
+- Vue
+- Raspberry Pi
+- Oracle Cloud, Create Instance on Ubuntu 18,20
+ 
