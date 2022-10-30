@@ -26,7 +26,7 @@ codeSTACKr | TwittercodeSTACKr | LinkedIncodeSTACKr | Instagram
 
 - HTML
 - CSS
-* Java
+- Java
 - JavaScript
 - Apache
 - Github
@@ -38,4 +38,17 @@ codeSTACKr | TwittercodeSTACKr | LinkedIncodeSTACKr | Instagram
 - Vue
 - Raspberry Pi
 - Oracle Cloud, Create Instance on Ubuntu 18,20
+- PHP
+- Mysql Database
+- Postgresql Database
+- Linux
+
+---
+
+## Hobbies
+- Printer 3d on a Anycubic 4Max Pro 2.0 (January 2022)
+- Blender 3D Software
+- Cura 
+
+
  
