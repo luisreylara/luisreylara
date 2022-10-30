@@ -16,11 +16,12 @@ Here are some ideas to get you started:
 -->
 
 ## Connect with me:
-codeSTACKr | TwittercodeSTACKr | LinkedIncodeSTACKr | Instagram
 
 
 ---
-## I'm a Full Stack Developer.
+## I'm a software enginner-master who is passionate about making and teaching open-source more accessible, creating technology to elevate student, and building community. Some technologies I enjoy working with Java, Cloud, embedded systems, IA, database
+---
+## I'm a Learning all about to be a Full Stack Developer.
 ---
 ## I have experieve working and Teaching diferent Programming Languages and Tools, like a:
 
@@ -32,7 +33,9 @@ codeSTACKr | TwittercodeSTACKr | LinkedIncodeSTACKr | Instagram
 - Github
 - Android
 - ESP32
-- R Rstudio
+- Arduino
+- Experiments with Nao Robots
+- R, RStudio
 - Node
 - Express
 - Vue
