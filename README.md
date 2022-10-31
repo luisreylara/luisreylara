@@ -47,6 +47,8 @@ Here are some ideas to get you started:
 | Oracle Cloud | Node | Raspberry Pi |
 | Github | RStudio | Express|
 | C++ | LaTex | ROS |
+| OpenCv |   |   |
+
 
 ---
 
