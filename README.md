@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 ---
 
-## Hobbies
+## Hobbies 😄
 - Printer 3d on a Anycubic 4Max Pro 2.0 (January 2022)
 - Blender 3D Software
 - Cura 
