@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 | Github | RStudio | Express|
 | C++ | LaTex | ROS |
 | OpenCV | Docker | Blender3d |
-| Machine Learning |  |  |
+| Machine Learning | WordPress |  |
 
 ---
 
