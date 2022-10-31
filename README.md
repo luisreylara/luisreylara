@@ -31,12 +31,11 @@ Here are some ideas to get you started:
 ---
 ## I'm a software enginner-master who is passionate about making and teaching open-source more accessible, creating technology to elevate student, and building community. Some technologies I enjoy working with Java, Cloud, embedded systems, IA, database
 ---
-## My dream is to be a full Stack developer
+## My dream is to be a full Stack developer 😄.
 ---
 ## I have experieve working and Teaching diferent Programming Languages and Tools, like a:
 
 
-| Lenguajes | Lenguajes | Lenguajes |
 | :---:| :---: | :---: |
 | HTML | Java | CSS |
 | Arduino | Android | ESP32 |
