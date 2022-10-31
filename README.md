@@ -39,8 +39,6 @@ Here are some ideas to get you started:
 ---
 ## I have experience working and Teaching diferent Programming Languages and Tools, like a:
 
-Un ejemplo es el sitio *[The Programming Historian en español][1]*
-
 | 1 | 2 | 3 |
 | :---:| :---: | :---: |
 | HTML | Java | CSS |
