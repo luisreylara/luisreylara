@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 ---
 ## I have experieve working and Teaching diferent Programming Languages and Tools, like a:
 
-
+| 1 | 2 | 3 |
 | :---:| :---: | :---: |
 | HTML | Java | CSS |
 | Arduino | Android | ESP32 |
