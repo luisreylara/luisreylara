@@ -35,8 +35,13 @@ Here are some ideas to get you started:
 ## I'm a software enginner-master who is passionate about making and teaching open-source more accessible, creating technology to elevate student, and building community. Some technologies that i enjoy working with Java, Cloud, Embedded systems, Machine Learning, Databases.
 ---
 ## I’m currently working on to be a Full Stack developer 😄.
+
+> Hola. Éste es un párrafo de texto incluido en un bloque de cita. Fíjate que tengo una sangría con respecto al margen izquierdo.
+
 ---
 ## I have experience working and Teaching diferent Programming Languages and Tools, like a:
+
+Un ejemplo es el sitio *[The Programming Historian en español][1]*
 
 | 1 | 2 | 3 |
 | :---:| :---: | :---: |
@@ -58,3 +63,4 @@ Here are some ideas to get you started:
 - Projects with a Printer 3D on a Anycubic 4Max Pro 2.0 (January 2022)
 - Blender 3D Software
 ---
+[1]: http://programminghistorian.org/
