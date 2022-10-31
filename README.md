@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 | JavaScript | Postgresql | Mysql |
 | Oracle Cloud | Node | Raspberry Pi |
 | Github | RStudio | Express|
-
+| C++ | LaTex | .|
 
 ---
 
