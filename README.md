@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 </div>
 
 ---
-## I'm a software enginner-master who is passionate about making and teaching open-source more accessible, creating technology to elevate student, and building community. Some technologies I enjoy working with Java, Cloud, embedded systems, IA, database
+## I'm a software enginner-master who is passionate about making and teaching open-source more accessible, creating technology to elevate student, and building community. Some technologies that i enjoy working with Java, Cloud, embedded systems, IA, database.
 ---
-## My dream is to be a full Stack developer 😄.
+## I’m currently working on to be a Full Stack developer 😄.
 ---
-## I have experieve working and Teaching diferent Programming Languages and Tools, like a:
+## I have experience working and Teaching diferent Programming Languages and Tools, like a:
 
 | 1 | 2 | 3 |
 | :---:| :---: | :---: |
@@ -46,16 +46,12 @@ Here are some ideas to get you started:
 | Oracle Cloud | Node | Raspberry Pi |
 | Github | RStudio | Express|
 | C++ | LaTex | ROS |
-| OpenCv | Docker | Blender3d  |
-
+| OpenCV | Docker | Blender3d |
+| Machine Learning |  |  |
 
 ---
 
 ## Hobbies 😄
 - Printer 3d on a Anycubic 4Max Pro 2.0 (January 2022)
 - Blender 3D Software
-- Cura 
-
 ---
-
- 
