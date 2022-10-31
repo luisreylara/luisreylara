@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 | C++ | LaTex | ROS |
 | OpenCV | Docker | Blender3d |
 | Machine Learning | WordPress | Printer 3D |
-| App Script Google Datasheet | Excel Macros5 |  |
+| App Script Google Datasheet | Excel Macros |  |
 ---
 
 ## Hobbies 😄
