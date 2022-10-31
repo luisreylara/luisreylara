@@ -20,16 +20,16 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/luisreylara/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="youtube.com/@LuisReyLara">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://www.instagram.com/luis.rey.lara/?hl=en">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
 
 ---
-## I'm a software enginner-master who is passionate about making and teaching open-source more accessible, creating technology to elevate student, and building community. Some technologies that i enjoy working with Java, Cloud, embedded systems, IA, database.
+## I'm a software enginner-master who is passionate about making and teaching open-source more accessible, creating technology to elevate student, and building community. Some technologies that i enjoy working with Java, Cloud, Embedded systems, Machine Learning, Databases.
 ---
 ## I’m currently working on to be a Full Stack developer 😄.
 ---
