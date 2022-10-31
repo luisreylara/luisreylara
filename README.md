@@ -26,6 +26,9 @@ Here are some ideas to get you started:
   <a href="https://www.instagram.com/luis.rey.lara/?hl=en">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
+  <a href="https://www.facebook.com/luisreylara/">
+    <img src="https://img.shields.io/badge/Facebook-Connect-brightgreen?style=for-the-badge&labelColor=black&logo=facebook" alt="FaceBook Badge"/>
+  </a>
 </div>
 
 ---
