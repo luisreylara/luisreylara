@@ -50,11 +50,11 @@ Here are some ideas to get you started:
 | Github | RStudio | Express|
 | C++ | LaTex | ROS |
 | OpenCV | Docker | Blender3d |
-| Machine Learning | WordPress |  |
-
+| Machine Learning | WordPress | Printer 3D |
+| App Script Google Datasheet | Excel Macros5 |  |
 ---
 
 ## Hobbies 😄
-- Printer 3d on a Anycubic 4Max Pro 2.0 (January 2022)
+- Projects with a Printer 3D on a Anycubic 4Max Pro 2.0 (January 2022)
 - Blender 3D Software
 ---
