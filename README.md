@@ -53,6 +53,7 @@ Here are some ideas to get you started:
 | OpenCV | Docker | Blender3d |
 | Machine Learning | WordPress | Printer 3D |
 | App Script Google Datasheet | Excel Macros | Sql Server |
+| SQLite | Kinect V1 & V2 |  |
 ---
 
 ## Hobbies 😄
