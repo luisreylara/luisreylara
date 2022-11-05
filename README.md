@@ -82,26 +82,58 @@ Here are some ideas to get you started:
    <a href="https://github.com/luisreylara/oracle/">
     <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" /> 
   </a>
-   <a href="https://github.com/luisreylara/kotlin/">
-    <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" /> 
+  <a href="https://github.com/luisreylara/vuejs/">
+    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" /> 
   </a>
-  <a href="https://github.com/luisreylara/php/">
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> 
+  <a href="https://github.com/luisreylara/xampp/">
+    <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" /> 
   </a>
-   <a href="https://github.com/luisreylara/r/">
-    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" /> 
+   <a href="https://github.com/luisreylara/rstudio/">
+    <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" /> 
   </a>
-  <a href="https://github.com/luisreylara/linux/">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> 
+  <a href="https://github.com/luisreylara/vstudiocode/">
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> 
   </a>
-  <a href="https://github.com/luisreylara/ios/">
-    <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" /> 
+  <a href="https://github.com/luisreylara/cplusplus/">
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> 
   </a>
-   <a href="https://github.com/luisreylara/macos/">
-    <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" /> 
+   <a href="https://github.com/luisreylara/android/">
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /> 
   </a>
-  <a href="https://github.com/luisreylara/css3/">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
+  <a href="https://github.com/luisreylara/debian/">
+    <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" /> 
+  </a>
+</div>
+<div id="experience03">
+    <a href="https://github.com/luisreylara/nodejs/">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> 
+  </a>
+   <a href="https://github.com/luisreylara/mysql/">
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> 
+  </a>
+   <a href="https://github.com/luisreylara/oracle/">
+    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" /> 
+  </a>
+  <a href="https://github.com/luisreylara/vuejs/">
+    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" /> 
+  </a>
+  <a href="https://github.com/luisreylara/xampp/">
+    <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" /> 
+  </a>
+   <a href="https://github.com/luisreylara/rstudio/">
+    <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" /> 
+  </a>
+  <a href="https://github.com/luisreylara/vstudiocode/">
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> 
+  </a>
+  <a href="https://github.com/luisreylara/cplusplus/">
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> 
+  </a>
+   <a href="https://github.com/luisreylara/android/">
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /> 
+  </a>
+  <a href="https://github.com/luisreylara/debian/">
+    <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" /> 
   </a>
 </div>
 
