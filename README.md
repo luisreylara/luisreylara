@@ -68,18 +68,52 @@ Here are some ideas to get you started:
    <a href="https://github.com/luisreylara/macos/">
     <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" /> 
   </a>
-
+  <a href="https://github.com/luisreylara/css3/">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
+  </a>
+</div>
+<div id="experience02">
+    <a href="https://github.com/luisreylara/nodejs/">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> 
+  </a>
+   <a href="https://github.com/luisreylara/mysql/">
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> 
+  </a>
+   <a href="https://github.com/luisreylara/oracle/">
+    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" /> 
+  </a>
+   <a href="https://github.com/luisreylara/kotlin/">
+    <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" /> 
+  </a>
+  <a href="https://github.com/luisreylara/php/">
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> 
+  </a>
+   <a href="https://github.com/luisreylara/r/">
+    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" /> 
+  </a>
+  <a href="https://github.com/luisreylara/linux/">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> 
+  </a>
+  <a href="https://github.com/luisreylara/ios/">
+    <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" /> 
+  </a>
+   <a href="https://github.com/luisreylara/macos/">
+    <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" /> 
+  </a>
+  <a href="https://github.com/luisreylara/css3/">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
+  </a>
 </div>
 
 | 1 | 2 | 3 |
 | :---:| :---: | :---: |
-| HTML | Java | CSS |
+| HTML | Java |   |
 | Arduino | *[Android][2]* | ESP32 |
-| Nao Robots | R | Linux |
-| Apache | Vue | PHP |
+| Nao Robots |   |   |
+| Apache | Vue |   |
 | Data Science | Machine Learning | Cisco |
 | JavaScript |   | Mysql |
-| Oracle Cloud | Node | Raspberry Pi |
+| Oracle Cloud |   | Raspberry Pi |
 | *[Github][1]* | RStudio | Express|
 | C++ | LaTex | ROS |
 | OpenCV | Docker | Blender3d |
