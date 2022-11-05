@@ -39,6 +39,17 @@ Here are some ideas to get you started:
 ---
 ## I have experience working and Teaching diferent Programming Languages and Tools, like a:
 
+
+<div id="experience">
+    <a href="https://github.com/luisreylara/postgresql/">
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> 
+  </a>
+  
+   <a href="https://github.com/luisreylara/javascript/">
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> 
+  </a>
+</div>
+
 | 1 | 2 | 3 |
 | :---:| :---: | :---: |
 | HTML | Java | CSS |
@@ -46,7 +57,7 @@ Here are some ideas to get you started:
 | Nao Robots | R | Linux |
 | Apache | Vue | PHP |
 | Data Science | Machine Learning | Cisco |
-| JavaScript | Postgresql [Postgresql2](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  | Mysql |
+| JavaScript | PostgreSql  | Mysql |
 | Oracle Cloud | Node | Raspberry Pi |
 | *[Github][1]* | RStudio | Express|
 | C++ | LaTex | ROS |
@@ -57,6 +68,7 @@ Here are some ideas to get you started:
 ---
 
 ## Hobbies 😄
+![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 - Projects with a Printer 3D on a Anycubic 4Max Pro 2.0 (January 2022)
 - Blender 3D Software
 ---
