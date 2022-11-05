@@ -40,14 +40,35 @@ Here are some ideas to get you started:
 ## I have experience working and Teaching diferent Programming Languages and Tools, like a:
 
 
-<div id="experience">
+<div id="experience01">
     <a href="https://github.com/luisreylara/postgresql/">
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> 
   </a>
-  
    <a href="https://github.com/luisreylara/javascript/">
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> 
   </a>
+   <a href="https://github.com/luisreylara/html5/">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
+  </a>
+   <a href="https://github.com/luisreylara/kotlin/">
+    <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" /> 
+  </a>
+  <a href="https://github.com/luisreylara/php/">
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> 
+  </a>
+   <a href="https://github.com/luisreylara/r/">
+    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" /> 
+  </a>
+  <a href="https://github.com/luisreylara/linux/">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> 
+  </a>
+  <a href="https://github.com/luisreylara/ios/">
+    <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" /> 
+  </a>
+   <a href="https://github.com/luisreylara/macos/">
+    <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" /> 
+  </a>
+
 </div>
 
 | 1 | 2 | 3 |
@@ -57,7 +78,7 @@ Here are some ideas to get you started:
 | Nao Robots | R | Linux |
 | Apache | Vue | PHP |
 | Data Science | Machine Learning | Cisco |
-| JavaScript | PostgreSql  | Mysql |
+| JavaScript |   | Mysql |
 | Oracle Cloud | Node | Raspberry Pi |
 | *[Github][1]* | RStudio | Express|
 | C++ | LaTex | ROS |
@@ -68,7 +89,7 @@ Here are some ideas to get you started:
 ---
 
 ## Hobbies 😄
-![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
 - Projects with a Printer 3D on a Anycubic 4Max Pro 2.0 (January 2022)
 - Blender 3D Software
 ---
