@@ -100,58 +100,50 @@ Here are some ideas to get you started:
    <a href="https://github.com/luisreylara/android/">
     <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /> 
   </a>
-  <a href="https://github.com/luisreylara/debian/">
-    <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" /> 
-  </a>
+  
 </div>
 <div id="experience03">
-    <a href="https://github.com/luisreylara/nodejs/">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> 
-  </a>
-   <a href="https://github.com/luisreylara/mysql/">
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> 
-  </a>
-   <a href="https://github.com/luisreylara/oracle/">
-    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" /> 
-  </a>
-  <a href="https://github.com/luisreylara/vuejs/">
-    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" /> 
-  </a>
-  <a href="https://github.com/luisreylara/xampp/">
-    <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" /> 
-  </a>
-   <a href="https://github.com/luisreylara/rstudio/">
-    <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" /> 
-  </a>
-  <a href="https://github.com/luisreylara/vstudiocode/">
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> 
-  </a>
-  <a href="https://github.com/luisreylara/cplusplus/">
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> 
-  </a>
-   <a href="https://github.com/luisreylara/android/">
-    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /> 
-  </a>
-  <a href="https://github.com/luisreylara/debian/">
+   <a href="https://github.com/luisreylara/debian/">
     <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" /> 
   </a>
-</div>
+   <a href="https://github.com/luisreylara/sqlserver/">
+    <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" /> 
+  </a>
+   <a href="https://github.com/luisreylara/sqlite/">
+    <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" /> 
+  </a>
+  <a href="https://github.com/luisreylara/latex/">
+    <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" /> 
+  </a>
+   <a href="https://github.com/luisreylara/arduino/">
+    <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" /> 
+  </a>
+  <a href="https://github.com/luisreylara/raspberry/">
+    <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" /> 
+  </a>
+  <a href="https://github.com/luisreylara/expressjs/">
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> 
+  </a>
+  <a href="https://github.com/luisreylara/opencv/">
+    <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" /> 
+  </a>
+  <a href="https://github.com/luisreylara/docker/">
+    <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" /> 
+  </a>
+  <a href="https://github.com/luisreylara/blender/">
+    <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" /> 
+  </a>
+  <a href="https://github.com/luisreylara/wordpress/">
+    <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /> 
+  </a>
 
-| 1 | 2 | 3 |
-| :---:| :---: | :---: |
-| HTML | Java |   |
-| Arduino | *[Android][2]* | ESP32 |
-| Nao Robots |   |   |
-| Apache | Vue |   |
-| Data Science | Machine Learning | Cisco |
-| JavaScript |   | Mysql |
-| Oracle Cloud |   | Raspberry Pi |
-| *[Github][1]* | RStudio | Express|
-| C++ | LaTex | ROS |
-| OpenCV | Docker | Blender3d |
-| Machine Learning | WordPress | Printer 3D |
-| App Script Google Datasheet | Excel Macros | Sql Server |
-| SQLite | Kinect V1 & V2 |  |
+  
+	
+  
+| Nao Robots| Machine Learning | Cisco |
+|  ESP32 | Java |  ROS |
+| Printer 3D  |  Kinect V1 & V2  |   |
+
 ---
 
 ## Hobbies 😄
