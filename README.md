@@ -71,9 +71,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/luisreylara/css3/">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
   </a>
-</div>
-<div id="experience02">
-    <a href="https://github.com/luisreylara/nodejs/">
+  <a href="https://github.com/luisreylara/nodejs/">
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> 
   </a>
    <a href="https://github.com/luisreylara/mysql/">
@@ -100,10 +98,7 @@ Here are some ideas to get you started:
    <a href="https://github.com/luisreylara/android/">
     <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /> 
   </a>
-  
-</div>
-<div id="experience03">
-   <a href="https://github.com/luisreylara/debian/">
+  <a href="https://github.com/luisreylara/debian/">
     <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" /> 
   </a>
    <a href="https://github.com/luisreylara/sqlserver/">
@@ -137,10 +132,10 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /> 
   </a>
 
-
+</div>
 ---
 	
-| Attempt | #1    | #2    |
+|  |  |  |
 | :---:   | :---: | :---: |
 | Nao Robots | Machine Learning  | Cisco |  
 | ESP32 | Java | ROS |  
