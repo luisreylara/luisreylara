@@ -137,12 +137,15 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /> 
   </a>
 
-  
+
+---
 	
-  
-| Nao Robots| Machine Learning | Cisco |
-|  ESP32 | Java |  ROS |
-| Printer 3D  |  Kinect V1 & V2  |   |
+| Attempt | #1    | #2    |
+| :---:   | :---: | :---: |
+| Nao Robots | Machine Learning  | Cisco |  
+| ESP32 | Java | ROS |  
+| Printer 3D | Kinect V1 & V2 |  | 
+	
 
 ---
 
