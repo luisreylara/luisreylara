@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 | Nao Robots | R | Linux |
 | Apache | Vue | PHP |
 | Data Science | Machine Learning | Cisco |
-| JavaScript | Postgresql | Mysql |
+| JavaScript | Postgresql [Postgresql2](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  | Mysql |
 | Oracle Cloud | Node | Raspberry Pi |
 | *[Github][1]* | RStudio | Express|
 | C++ | LaTex | ROS |
