@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 > I’m currently working on to be a Full Stack developer 😄.
 
 ---
-## I have experience working and Teaching diferent Programming Languages and Tools, like a:
+## Over the years I have learned and taught the following languages and tools, to see the detail, you must click on the badge of interest.
 
 
 <div id="experience01">
@@ -131,6 +131,10 @@ Here are some ideas to get you started:
   <a href="https://github.com/luisreylara/wordpress/">
     <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /> 
   </a>
+<a href="https://github.com/luisreylara/amazonaws/">
+    <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /> 
+  </a>
+
 
 </div>
 ---
