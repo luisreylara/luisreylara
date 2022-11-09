@@ -134,8 +134,9 @@ Here are some ideas to get you started:
 
 </div>
 ---
-|  |  |  |
-| :---:   | :---: | :---: |
+
+ Left  | Center   | Right  |
+| :------------ |:---------------:| -----:|
 | NAO Robots | Machine Learning  | Cisco |  
 | [ESP32](https://github.com/luisreylara/esp32/) | Java | [ROS](https://github.com/luisreylara/ros/) |  
 | Printer 3D |  | [Acuaponics](https://github.com/luisreylara/acuaponia/) | 
