@@ -134,12 +134,27 @@ Here are some ideas to get you started:
 
 </div>
 ---
-	
 |  |  |  |
 | :---:   | :---: | :---: |
-| Nao Robots | Machine Learning  | Cisco |  
-| ESP32 | Java | ROS |  
-| Printer 3D | Kinect V1 & V2 |  | 
+| NAO Robots | Machine Learning  | Cisco |  
+| [ESP32](https://github.com/luisreylara/esp32/) | Java | [ROS](https://github.com/luisreylara/ros/) |  
+| Printer 3D |  | [Acuaponics](https://github.com/luisreylara/acuaponia/) | 
+| IoT | [Kinect V1](https://github.com/luisreylara/kinectv1/) | [Kinect V2 ](https://github.com/luisreylara/kinectv2/) | 
+	
+# Countries visited.
+
+## 2015
+> [Japan](https://github.com/luisreylara/japan/) Project: New Techology in Japan
+
+## 2018
+> [Chile](https://github.com/luisreylara/chile/) Project: [Acuponics](https://github.com/luisreylara/acuaponia/)
+
+## 2019
+> [Canada](https://github.com/luisreylara/canada/) Project: Advanced English Speaking
+
+## 2020
+> [Peru](https://github.com/luisreylara/peru/) Project: Professor at University Arequipa.
+
 	
 
 ---
